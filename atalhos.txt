@@ -1,0 +1,6 @@
+ctrl + z desfazer
+ctrl + y desfazer o desfazer, ou refazer
+ctrl + B esconde barra lateral
+ctrl + backslash (\) duplica arquivo
+ctrl + D seleciona a palavra e encontra e seleciona as proximas ocorrencias
+ctrl + alt + Downarrow adiciona o cursor na linha abaixo (uparrow faz o mesmo para cima)
